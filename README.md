@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project implements a gradient-domain copy-paste system for blending two images seamlessly. The system utilizes a least-squares optimization approach to minimize the intensity difference between pixels at the boundary of the source and target images, ensuring a smooth transition. By solving for the optimal pixel values using a sparse matrix representation, the algorithm produces results that blend seamlessly into the background, avoiding the hard edges typical of direct copy-paste methods.
+This project implements a gradient-domain copy-paste system for blending two images seamlessly. The system utilizes a least-squares optimization approach to minimize the intensity difference between pixels at the boundary of the source and target images, ensuring a smooth transition. By solving for the optimal pixel values using a sparse matrix representation, the algorithm produces results that blend seamlessly into the background.
 
 ---
 
