@@ -20,7 +20,9 @@ This project implements a gradient-domain copy-paste system for blending two ima
 
   - Allows users to select a region on the background image where the object image will be blended.
 
-  - Poisson Blending (`poisson_copy_paste`): Computes the blended image using gradient-domain optimization, ensuring smooth transitions. Displays this image to the user along with the simple copy-paste alternative.
+  - Poisson Blending (`poisson_copy_paste`): Computes the blended image using gradient-domain optimization, ensuring smooth transitions.
+  
+  - Displays this image to the user along with the simple copy-paste alternative.
 
 ---
 
