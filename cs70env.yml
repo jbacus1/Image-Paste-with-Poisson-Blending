@@ -1,0 +1,16 @@
+name: cs70
+channels:
+  - defaults
+dependencies:
+  - notebook=6.*
+  - numpy
+  - matplotlib
+  - ipympl
+  - ipykernel
+  - conda-forge::ipywidgets
+  - conda-forge::jupyter_contrib_nbextensions
+  - opencv
+  - scipy
+  - scikit-image
+  - sympy
+  - conda-forge::bqplot
